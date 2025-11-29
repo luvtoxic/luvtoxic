@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm <b>Infnox</b>, a <b>Java Developer</b> from India.</p>
+<p align="left">I'm <b>luvtoxic</b>, a <b>Java Developer</b>.</p>
 
 ###
 
